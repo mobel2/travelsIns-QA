@@ -1,0 +1,235 @@
+# Created at 2018-12-18T01:33:55.810
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2018-12-18T01:33:55.844
+Unexpected IOException: 6,1,com.travels_Qa.openAppTest,locateAgent(com.travels_Qa.openAppTest),null,null,null
+
+
+# Created at 2018-12-18T01:33:55.869
+Unexpected IOException: 5,1,com.travels_Qa.agenciesDataTest,agenciesData(com.travels_Qa.agenciesDataTest),com.travels_Qa.agenciesDataTest,null,null
+
+
+# Created at 2018-12-18T01:34:08.194
+Unexpected IOException with stream: [
+
+# Created at 2018-12-18T01:34:08.199
+Unexpected IOException with stream: 1
+
+# Created at 2018-12-18T01:34:08.206
+Unexpected IOException with stream: 5
+
+# Created at 2018-12-18T01:34:08.210
+Unexpected IOException with stream: 4
+
+# Created at 2018-12-18T01:34:08.215
+Unexpected IOException with stream: 5
+
+# Created at 2018-12-18T01:34:08.219
+Unexpected IOException with stream: 1
+
+# Created at 2018-12-18T01:34:08.223
+Unexpected IOException with stream: 1
+
+# Created at 2018-12-18T01:34:08.227
+Unexpected IOException with stream: 4
+
+# Created at 2018-12-18T01:34:08.233
+Unexpected IOException with stream: 8
+
+# Created at 2018-12-18T01:34:08.236
+Unexpected IOException with stream: 4
+
+# Created at 2018-12-18T01:34:08.243
+Unexpected IOException with stream: 7
+
+# Created at 2018-12-18T01:34:08.246
+Unexpected IOException with stream: .
+
+# Created at 2018-12-18T01:34:08.249
+Unexpected IOException with stream: 8
+
+# Created at 2018-12-18T01:34:08.251
+Unexpected IOException with stream: 1
+
+# Created at 2018-12-18T01:34:08.253
+Unexpected IOException with stream: 0
+
+# Created at 2018-12-18T01:34:08.254
+Unexpected IOException with stream: ]
+
+# Created at 2018-12-18T01:34:08.255
+Unexpected IOException with stream: [
+
+# Created at 2018-12-18T01:34:08.256
+Unexpected IOException with stream: S
+
+# Created at 2018-12-18T01:34:08.258
+Unexpected IOException with stream: E
+
+# Created at 2018-12-18T01:34:08.259
+Unexpected IOException with stream: V
+
+# Created at 2018-12-18T01:34:08.260
+Unexpected IOException with stream: E
+
+# Created at 2018-12-18T01:34:08.262
+Unexpected IOException with stream: R
+
+# Created at 2018-12-18T01:34:08.264
+Unexpected IOException with stream: E
+
+# Created at 2018-12-18T01:34:08.265
+Unexpected IOException with stream: ]
+
+# Created at 2018-12-18T01:34:08.267
+Unexpected IOException with stream: :
+
+# Created at 2018-12-18T01:34:08.268
+Unexpected IOException with stream:  
+
+# Created at 2018-12-18T01:34:08.270
+Unexpected IOException with stream: U
+
+# Created at 2018-12-18T01:34:08.272
+Unexpected IOException with stream: n
+
+# Created at 2018-12-18T01:34:08.274
+Unexpected IOException with stream: a
+
+# Created at 2018-12-18T01:34:08.277
+Unexpected IOException with stream: b
+
+# Created at 2018-12-18T01:34:08.278
+Unexpected IOException with stream: l
+
+# Created at 2018-12-18T01:34:08.279
+Unexpected IOException with stream: e
+
+# Created at 2018-12-18T01:34:08.281
+Unexpected IOException with stream:  
+
+# Created at 2018-12-18T01:34:08.282
+Unexpected IOException with stream: t
+
+# Created at 2018-12-18T01:34:08.284
+Unexpected IOException with stream: o
+
+# Created at 2018-12-18T01:34:08.285
+Unexpected IOException with stream:  
+
+# Created at 2018-12-18T01:34:08.286
+Unexpected IOException with stream: r
+
+# Created at 2018-12-18T01:34:08.287
+Unexpected IOException with stream: e
+
+# Created at 2018-12-18T01:34:08.288
+Unexpected IOException with stream: c
+
+# Created at 2018-12-18T01:34:08.289
+Unexpected IOException with stream: e
+
+# Created at 2018-12-18T01:34:08.291
+Unexpected IOException with stream: i
+
+# Created at 2018-12-18T01:34:08.292
+Unexpected IOException with stream: v
+
+# Created at 2018-12-18T01:34:08.293
+Unexpected IOException with stream: e
+
+# Created at 2018-12-18T01:34:08.294
+Unexpected IOException with stream:  
+
+# Created at 2018-12-18T01:34:08.296
+Unexpected IOException with stream: m
+
+# Created at 2018-12-18T01:34:08.299
+Unexpected IOException with stream: e
+
+# Created at 2018-12-18T01:34:08.300
+Unexpected IOException with stream: s
+
+# Created at 2018-12-18T01:34:08.302
+Unexpected IOException with stream: s
+
+# Created at 2018-12-18T01:34:08.303
+Unexpected IOException with stream: a
+
+# Created at 2018-12-18T01:34:08.305
+Unexpected IOException with stream: g
+
+# Created at 2018-12-18T01:34:08.306
+Unexpected IOException with stream: e
+
+# Created at 2018-12-18T01:34:08.314
+Unexpected IOException with stream:  
+
+# Created at 2018-12-18T01:34:08.316
+Unexpected IOException with stream: f
+
+# Created at 2018-12-18T01:34:08.317
+Unexpected IOException with stream: r
+
+# Created at 2018-12-18T01:34:08.318
+Unexpected IOException with stream: o
+
+# Created at 2018-12-18T01:34:08.320
+Unexpected IOException with stream: m
+
+# Created at 2018-12-18T01:34:08.322
+Unexpected IOException with stream:  
+
+# Created at 2018-12-18T01:34:08.323
+Unexpected IOException with stream: r
+
+# Created at 2018-12-18T01:34:08.324
+Unexpected IOException with stream: e
+
+# Created at 2018-12-18T01:34:08.326
+Unexpected IOException with stream: n
+
+# Created at 2018-12-18T01:34:08.327
+Unexpected IOException with stream: d
+
+# Created at 2018-12-18T01:34:09.392
+Unexpected IOException with stream: e
+
+# Created at 2018-12-18T01:34:09.395
+Unexpected IOException with stream: r
+
+# Created at 2018-12-18T01:34:09.398
+Unexpected IOException with stream: e
+
+# Created at 2018-12-18T01:34:09.400
+Unexpected IOException with stream: r
+
+# Created at 2018-12-18T01:34:09.401
+Unexpected IOException with stream: 
+
+# Created at 2018-12-18T01:34:09.403
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-18T01:34:10.336
+Unexpected IOException: 8,1,com.travels_Qa.agenciesDataTest,agenciesData(com.travels_Qa.agenciesDataTest),null,null,null,null,agenciesDataTest.agenciesData:76 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.travels_Qa.agenciesDataTest.agenciesData(agenciesDataTest.java:76)\000A
+
+
+# Created at 2018-12-18T01:34:10.338
+Unexpected IOException: 5,1,com.travels_Qa.statesLocations,agenciesStates(com.travels_Qa.statesLocations),com.travels_Qa.statesLocations,null,null
+
+
+# Created at 2018-12-18T01:34:10.476
+Unexpected IOException: 8,1,com.travels_Qa.statesLocations,agenciesStates(com.travels_Qa.statesLocations),null,null,null,null,statesLocations.agenciesStates:64 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.travels_Qa.statesLocations.agenciesStates(statesLocations.java:64)\000A
+
+
+# Created at 2018-12-18T01:34:12.910
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

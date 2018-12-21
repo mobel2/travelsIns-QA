@@ -1,0 +1,17 @@
+# Created at 2018-12-17T23:01:10.051
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2018-12-17T23:01:21.913
+Unexpected IOException: 8,1,com.travels_Qa.statesLocations,agenciesStates(com.travels_Qa.statesLocations),null,Index: 10\002C Size: 4,null,Index: 10\002C Size: 4,statesLocations.agenciesStates:88 \00BB IndexOutOfBounds Index: 10\002C Size: 4,java.lang.IndexOutOfBoundsException: Index: 10\002C Size: 4\000A\0009at com.travels_Qa.statesLocations.agenciesStates(statesLocations.java:88)\000A
+
+
+# Created at 2018-12-17T23:01:23.847
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

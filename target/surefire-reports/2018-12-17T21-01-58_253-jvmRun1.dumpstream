@@ -1,0 +1,1983 @@
+# Created at 2018-12-17T21:04:05.289
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2018-12-17T21:04:05.450
+Unexpected IOException with stream: java.io.FileNotFoundException: C:\Users\mohamed\Desktop\cities.xlsx (The process cannot access the file because it is being used by another process)
+
+# Created at 2018-12-17T21:04:05.452
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.454
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open0(Native Method)
+
+# Created at 2018-12-17T21:04:05.456
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.459
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+
+# Created at 2018-12-17T21:04:05.460
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.462
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+
+# Created at 2018-12-17T21:04:05.464
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.466
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+
+# Created at 2018-12-17T21:04:05.467
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.468
+Unexpected IOException with stream: 	at com.travels_Qa.Xls_Reader.setCellData(Xls_Reader.java:222)
+
+# Created at 2018-12-17T21:04:05.470
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.472
+Unexpected IOException with stream: 	at com.travels_Qa.statesLocations.agenciesStates(statesLocations.java:88)
+
+# Created at 2018-12-17T21:04:05.473
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.474
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2018-12-17T21:04:05.476
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.477
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+
+# Created at 2018-12-17T21:04:05.478
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.480
+Unexpected IOException with stream: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2018-12-17T21:04:05.481
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.482
+Unexpected IOException with stream: 	at java.lang.reflect.Method.invoke(Method.java:498)
+
+# Created at 2018-12-17T21:04:05.483
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.484
+Unexpected IOException with stream: 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+
+# Created at 2018-12-17T21:04:05.486
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.487
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+
+# Created at 2018-12-17T21:04:05.488
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.489
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+
+# Created at 2018-12-17T21:04:05.491
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.492
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+
+# Created at 2018-12-17T21:04:05.493
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.494
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+
+# Created at 2018-12-17T21:04:05.495
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.496
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+
+# Created at 2018-12-17T21:04:05.497
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.497
+Unexpected IOException with stream: 	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+
+# Created at 2018-12-17T21:04:05.499
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.500
+Unexpected IOException with stream: 	at org.testng.TestRunner.run(TestRunner.java:505)
+
+# Created at 2018-12-17T21:04:05.501
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.502
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+
+# Created at 2018-12-17T21:04:05.503
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.506
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+
+# Created at 2018-12-17T21:04:05.508
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.511
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+
+# Created at 2018-12-17T21:04:05.512
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.513
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+
+# Created at 2018-12-17T21:04:05.514
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.515
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+
+# Created at 2018-12-17T21:04:05.516
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.517
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+
+# Created at 2018-12-17T21:04:05.518
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.519
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+
+# Created at 2018-12-17T21:04:05.520
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.522
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+
+# Created at 2018-12-17T21:04:05.524
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.525
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuites(TestNG.java:1049)
+
+# Created at 2018-12-17T21:04:05.526
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.527
+Unexpected IOException with stream: 	at org.testng.TestNG.run(TestNG.java:1017)
+
+# Created at 2018-12-17T21:04:05.529
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.530
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+
+# Created at 2018-12-17T21:04:05.531
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.532
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+
+# Created at 2018-12-17T21:04:05.534
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.535
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+
+# Created at 2018-12-17T21:04:05.536
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.538
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+
+# Created at 2018-12-17T21:04:05.540
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.542
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+
+# Created at 2018-12-17T21:04:05.543
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.545
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+
+# Created at 2018-12-17T21:04:05.546
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.547
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+# Created at 2018-12-17T21:04:05.547
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.672
+Unexpected IOException with stream: java.io.FileNotFoundException: C:\Users\mohamed\Desktop\cities.xlsx (The process cannot access the file because it is being used by another process)
+
+# Created at 2018-12-17T21:04:05.673
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.674
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open0(Native Method)
+
+# Created at 2018-12-17T21:04:05.676
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.677
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+
+# Created at 2018-12-17T21:04:05.679
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.680
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+
+# Created at 2018-12-17T21:04:05.682
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.683
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+
+# Created at 2018-12-17T21:04:05.685
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.686
+Unexpected IOException with stream: 	at com.travels_Qa.Xls_Reader.setCellData(Xls_Reader.java:222)
+
+# Created at 2018-12-17T21:04:05.688
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.689
+Unexpected IOException with stream: 	at com.travels_Qa.statesLocations.agenciesStates(statesLocations.java:88)
+
+# Created at 2018-12-17T21:04:05.691
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.692
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2018-12-17T21:04:05.695
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.696
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+
+# Created at 2018-12-17T21:04:05.698
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.699
+Unexpected IOException with stream: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2018-12-17T21:04:05.701
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.702
+Unexpected IOException with stream: 	at java.lang.reflect.Method.invoke(Method.java:498)
+
+# Created at 2018-12-17T21:04:05.704
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.707
+Unexpected IOException with stream: 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+
+# Created at 2018-12-17T21:04:05.709
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.710
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+
+# Created at 2018-12-17T21:04:05.712
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.714
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+
+# Created at 2018-12-17T21:04:05.715
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.718
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+
+# Created at 2018-12-17T21:04:05.720
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.722
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+
+# Created at 2018-12-17T21:04:05.724
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.726
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+
+# Created at 2018-12-17T21:04:05.728
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.730
+Unexpected IOException with stream: 	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+
+# Created at 2018-12-17T21:04:05.731
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.733
+Unexpected IOException with stream: 	at org.testng.TestRunner.run(TestRunner.java:505)
+
+# Created at 2018-12-17T21:04:05.736
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.738
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+
+# Created at 2018-12-17T21:04:05.740
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.744
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+
+# Created at 2018-12-17T21:04:05.745
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.747
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+
+# Created at 2018-12-17T21:04:05.748
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.750
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+
+# Created at 2018-12-17T21:04:05.751
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.754
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+
+# Created at 2018-12-17T21:04:05.756
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.757
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+
+# Created at 2018-12-17T21:04:05.759
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.760
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+
+# Created at 2018-12-17T21:04:05.763
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.764
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+
+# Created at 2018-12-17T21:04:05.766
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.767
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuites(TestNG.java:1049)
+
+# Created at 2018-12-17T21:04:05.769
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.770
+Unexpected IOException with stream: 	at org.testng.TestNG.run(TestNG.java:1017)
+
+# Created at 2018-12-17T21:04:05.773
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.774
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+
+# Created at 2018-12-17T21:04:05.776
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.780
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+
+# Created at 2018-12-17T21:04:05.784
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.785
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+
+# Created at 2018-12-17T21:04:05.786
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.788
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+
+# Created at 2018-12-17T21:04:05.790
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.791
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+
+# Created at 2018-12-17T21:04:05.793
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.795
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+
+# Created at 2018-12-17T21:04:05.797
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:05.798
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+# Created at 2018-12-17T21:04:05.800
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.004
+Unexpected IOException with stream: java.io.FileNotFoundException: C:\Users\mohamed\Desktop\cities.xlsx (The process cannot access the file because it is being used by another process)
+
+# Created at 2018-12-17T21:04:06.006
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.008
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open0(Native Method)
+
+# Created at 2018-12-17T21:04:06.009
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.010
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+
+# Created at 2018-12-17T21:04:06.012
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.014
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+
+# Created at 2018-12-17T21:04:06.015
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.017
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+
+# Created at 2018-12-17T21:04:06.018
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.020
+Unexpected IOException with stream: 	at com.travels_Qa.Xls_Reader.setCellData(Xls_Reader.java:222)
+
+# Created at 2018-12-17T21:04:06.021
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.024
+Unexpected IOException with stream: 	at com.travels_Qa.statesLocations.agenciesStates(statesLocations.java:88)
+
+# Created at 2018-12-17T21:04:06.025
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.026
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2018-12-17T21:04:06.028
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.029
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+
+# Created at 2018-12-17T21:04:06.031
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.032
+Unexpected IOException with stream: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2018-12-17T21:04:06.034
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.035
+Unexpected IOException with stream: 	at java.lang.reflect.Method.invoke(Method.java:498)
+
+# Created at 2018-12-17T21:04:06.037
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.038
+Unexpected IOException with stream: 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+
+# Created at 2018-12-17T21:04:06.039
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.041
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+
+# Created at 2018-12-17T21:04:06.042
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.044
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+
+# Created at 2018-12-17T21:04:06.045
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.046
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+
+# Created at 2018-12-17T21:04:06.047
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.048
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+
+# Created at 2018-12-17T21:04:06.049
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.051
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+
+# Created at 2018-12-17T21:04:06.052
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.057
+Unexpected IOException with stream: 	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+
+# Created at 2018-12-17T21:04:06.058
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.060
+Unexpected IOException with stream: 	at org.testng.TestRunner.run(TestRunner.java:505)
+
+# Created at 2018-12-17T21:04:06.061
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.064
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+
+# Created at 2018-12-17T21:04:06.065
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.067
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+
+# Created at 2018-12-17T21:04:06.068
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.070
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+
+# Created at 2018-12-17T21:04:06.073
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.077
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+
+# Created at 2018-12-17T21:04:06.078
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.080
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+
+# Created at 2018-12-17T21:04:06.081
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.084
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+
+# Created at 2018-12-17T21:04:06.086
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.088
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+
+# Created at 2018-12-17T21:04:06.089
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.091
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+
+# Created at 2018-12-17T21:04:06.092
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.095
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuites(TestNG.java:1049)
+
+# Created at 2018-12-17T21:04:06.102
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.122
+Unexpected IOException with stream: 	at org.testng.TestNG.run(TestNG.java:1017)
+
+# Created at 2018-12-17T21:04:06.124
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.125
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+
+# Created at 2018-12-17T21:04:06.126
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.128
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+
+# Created at 2018-12-17T21:04:06.129
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.130
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+
+# Created at 2018-12-17T21:04:06.132
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.133
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+
+# Created at 2018-12-17T21:04:06.134
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.136
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+
+# Created at 2018-12-17T21:04:06.138
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.140
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+
+# Created at 2018-12-17T21:04:06.141
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.142
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+# Created at 2018-12-17T21:04:06.144
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.327
+Unexpected IOException with stream: java.io.FileNotFoundException: C:\Users\mohamed\Desktop\cities.xlsx (The process cannot access the file because it is being used by another process)
+
+# Created at 2018-12-17T21:04:06.327
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.329
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open0(Native Method)
+
+# Created at 2018-12-17T21:04:06.330
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.331
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+
+# Created at 2018-12-17T21:04:06.332
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.333
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+
+# Created at 2018-12-17T21:04:06.334
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.334
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+
+# Created at 2018-12-17T21:04:06.335
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.336
+Unexpected IOException with stream: 	at com.travels_Qa.Xls_Reader.setCellData(Xls_Reader.java:222)
+
+# Created at 2018-12-17T21:04:06.337
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.339
+Unexpected IOException with stream: 	at com.travels_Qa.statesLocations.agenciesStates(statesLocations.java:88)
+
+# Created at 2018-12-17T21:04:06.340
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.342
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2018-12-17T21:04:06.343
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.344
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+
+# Created at 2018-12-17T21:04:06.345
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.346
+Unexpected IOException with stream: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2018-12-17T21:04:06.347
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.348
+Unexpected IOException with stream: 	at java.lang.reflect.Method.invoke(Method.java:498)
+
+# Created at 2018-12-17T21:04:06.349
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.350
+Unexpected IOException with stream: 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+
+# Created at 2018-12-17T21:04:06.351
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.352
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+
+# Created at 2018-12-17T21:04:06.353
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.354
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+
+# Created at 2018-12-17T21:04:06.355
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.357
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+
+# Created at 2018-12-17T21:04:06.358
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.359
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+
+# Created at 2018-12-17T21:04:06.360
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.361
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+
+# Created at 2018-12-17T21:04:06.362
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.363
+Unexpected IOException with stream: 	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+
+# Created at 2018-12-17T21:04:06.364
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.365
+Unexpected IOException with stream: 	at org.testng.TestRunner.run(TestRunner.java:505)
+
+# Created at 2018-12-17T21:04:06.366
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.367
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+
+# Created at 2018-12-17T21:04:06.369
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.370
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+
+# Created at 2018-12-17T21:04:06.371
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.372
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+
+# Created at 2018-12-17T21:04:06.373
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.374
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+
+# Created at 2018-12-17T21:04:06.376
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.378
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+
+# Created at 2018-12-17T21:04:06.379
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.380
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+
+# Created at 2018-12-17T21:04:06.381
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.382
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+
+# Created at 2018-12-17T21:04:06.383
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.384
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+
+# Created at 2018-12-17T21:04:06.385
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.386
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuites(TestNG.java:1049)
+
+# Created at 2018-12-17T21:04:06.388
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.391
+Unexpected IOException with stream: 	at org.testng.TestNG.run(TestNG.java:1017)
+
+# Created at 2018-12-17T21:04:06.392
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.393
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+
+# Created at 2018-12-17T21:04:06.394
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.395
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+
+# Created at 2018-12-17T21:04:06.396
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.398
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+
+# Created at 2018-12-17T21:04:06.399
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.400
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+
+# Created at 2018-12-17T21:04:06.401
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.402
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+
+# Created at 2018-12-17T21:04:06.404
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.406
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+
+# Created at 2018-12-17T21:04:06.407
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.408
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+# Created at 2018-12-17T21:04:06.409
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.518
+Unexpected IOException with stream: java.io.FileNotFoundException: C:\Users\mohamed\Desktop\cities.xlsx (The process cannot access the file because it is being used by another process)
+
+# Created at 2018-12-17T21:04:06.519
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.520
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open0(Native Method)
+
+# Created at 2018-12-17T21:04:06.521
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.522
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+
+# Created at 2018-12-17T21:04:06.524
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.525
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+
+# Created at 2018-12-17T21:04:06.527
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.528
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+
+# Created at 2018-12-17T21:04:06.529
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.530
+Unexpected IOException with stream: 	at com.travels_Qa.Xls_Reader.setCellData(Xls_Reader.java:222)
+
+# Created at 2018-12-17T21:04:06.531
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.532
+Unexpected IOException with stream: 	at com.travels_Qa.statesLocations.agenciesStates(statesLocations.java:88)
+
+# Created at 2018-12-17T21:04:06.534
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.536
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2018-12-17T21:04:06.537
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.538
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+
+# Created at 2018-12-17T21:04:06.539
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.540
+Unexpected IOException with stream: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2018-12-17T21:04:06.541
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.542
+Unexpected IOException with stream: 	at java.lang.reflect.Method.invoke(Method.java:498)
+
+# Created at 2018-12-17T21:04:06.544
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.545
+Unexpected IOException with stream: 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+
+# Created at 2018-12-17T21:04:06.548
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.550
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+
+# Created at 2018-12-17T21:04:06.552
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.553
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+
+# Created at 2018-12-17T21:04:06.554
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.556
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+
+# Created at 2018-12-17T21:04:06.558
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.559
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+
+# Created at 2018-12-17T21:04:06.561
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.563
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+
+# Created at 2018-12-17T21:04:06.564
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.565
+Unexpected IOException with stream: 	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+
+# Created at 2018-12-17T21:04:06.567
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.568
+Unexpected IOException with stream: 	at org.testng.TestRunner.run(TestRunner.java:505)
+
+# Created at 2018-12-17T21:04:06.570
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.571
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+
+# Created at 2018-12-17T21:04:06.572
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.573
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+
+# Created at 2018-12-17T21:04:06.574
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.576
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+
+# Created at 2018-12-17T21:04:06.577
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.578
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+
+# Created at 2018-12-17T21:04:06.579
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.580
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+
+# Created at 2018-12-17T21:04:06.581
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.582
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+
+# Created at 2018-12-17T21:04:06.583
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.584
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+
+# Created at 2018-12-17T21:04:06.585
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.586
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+
+# Created at 2018-12-17T21:04:06.588
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.590
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuites(TestNG.java:1049)
+
+# Created at 2018-12-17T21:04:06.591
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.592
+Unexpected IOException with stream: 	at org.testng.TestNG.run(TestNG.java:1017)
+
+# Created at 2018-12-17T21:04:06.593
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.595
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+
+# Created at 2018-12-17T21:04:06.596
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.597
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+
+# Created at 2018-12-17T21:04:06.600
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.603
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+
+# Created at 2018-12-17T21:04:06.605
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.607
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+
+# Created at 2018-12-17T21:04:06.608
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.609
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+
+# Created at 2018-12-17T21:04:06.611
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.611
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+
+# Created at 2018-12-17T21:04:06.612
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.614
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+# Created at 2018-12-17T21:04:06.615
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.743
+Unexpected IOException with stream: java.io.FileNotFoundException: C:\Users\mohamed\Desktop\cities.xlsx (The process cannot access the file because it is being used by another process)
+
+# Created at 2018-12-17T21:04:06.744
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.745
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open0(Native Method)
+
+# Created at 2018-12-17T21:04:06.746
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.747
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+
+# Created at 2018-12-17T21:04:06.748
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.748
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+
+# Created at 2018-12-17T21:04:06.749
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.750
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+
+# Created at 2018-12-17T21:04:06.751
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.752
+Unexpected IOException with stream: 	at com.travels_Qa.Xls_Reader.setCellData(Xls_Reader.java:222)
+
+# Created at 2018-12-17T21:04:06.753
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.754
+Unexpected IOException with stream: 	at com.travels_Qa.statesLocations.agenciesStates(statesLocations.java:88)
+
+# Created at 2018-12-17T21:04:06.756
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.758
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2018-12-17T21:04:06.759
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.761
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+
+# Created at 2018-12-17T21:04:06.762
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.763
+Unexpected IOException with stream: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2018-12-17T21:04:06.764
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.765
+Unexpected IOException with stream: 	at java.lang.reflect.Method.invoke(Method.java:498)
+
+# Created at 2018-12-17T21:04:06.766
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.768
+Unexpected IOException with stream: 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+
+# Created at 2018-12-17T21:04:06.769
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.770
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+
+# Created at 2018-12-17T21:04:06.772
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.773
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+
+# Created at 2018-12-17T21:04:06.775
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.776
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+
+# Created at 2018-12-17T21:04:06.777
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.778
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+
+# Created at 2018-12-17T21:04:06.779
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.781
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+
+# Created at 2018-12-17T21:04:06.782
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.783
+Unexpected IOException with stream: 	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+
+# Created at 2018-12-17T21:04:06.784
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.785
+Unexpected IOException with stream: 	at org.testng.TestRunner.run(TestRunner.java:505)
+
+# Created at 2018-12-17T21:04:06.786
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.787
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+
+# Created at 2018-12-17T21:04:06.788
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.789
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+
+# Created at 2018-12-17T21:04:06.790
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.791
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+
+# Created at 2018-12-17T21:04:06.793
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.794
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+
+# Created at 2018-12-17T21:04:06.795
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.797
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+
+# Created at 2018-12-17T21:04:06.798
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.799
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+
+# Created at 2018-12-17T21:04:06.801
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.802
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+
+# Created at 2018-12-17T21:04:06.803
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.803
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+
+# Created at 2018-12-17T21:04:06.805
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.806
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuites(TestNG.java:1049)
+
+# Created at 2018-12-17T21:04:06.808
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.809
+Unexpected IOException with stream: 	at org.testng.TestNG.run(TestNG.java:1017)
+
+# Created at 2018-12-17T21:04:06.810
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.811
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+
+# Created at 2018-12-17T21:04:06.813
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.814
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+
+# Created at 2018-12-17T21:04:06.815
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.816
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+
+# Created at 2018-12-17T21:04:06.817
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.818
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+
+# Created at 2018-12-17T21:04:06.819
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.820
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+
+# Created at 2018-12-17T21:04:06.821
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.822
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+
+# Created at 2018-12-17T21:04:06.824
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.826
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+# Created at 2018-12-17T21:04:06.827
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.927
+Unexpected IOException with stream: java.io.FileNotFoundException: C:\Users\mohamed\Desktop\cities.xlsx (The process cannot access the file because it is being used by another process)
+
+# Created at 2018-12-17T21:04:06.927
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.928
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open0(Native Method)
+
+# Created at 2018-12-17T21:04:06.929
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.930
+Unexpected IOException with stream: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+
+# Created at 2018-12-17T21:04:06.931
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.932
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+
+# Created at 2018-12-17T21:04:06.933
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.934
+Unexpected IOException with stream: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+
+# Created at 2018-12-17T21:04:06.935
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.936
+Unexpected IOException with stream: 	at com.travels_Qa.Xls_Reader.setCellData(Xls_Reader.java:222)
+
+# Created at 2018-12-17T21:04:06.937
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.939
+Unexpected IOException with stream: 	at com.travels_Qa.statesLocations.agenciesStates(statesLocations.java:88)
+
+# Created at 2018-12-17T21:04:06.941
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.942
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2018-12-17T21:04:06.944
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.945
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+
+# Created at 2018-12-17T21:04:06.946
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.947
+Unexpected IOException with stream: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2018-12-17T21:04:06.948
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.948
+Unexpected IOException with stream: 	at java.lang.reflect.Method.invoke(Method.java:498)
+
+# Created at 2018-12-17T21:04:06.949
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.950
+Unexpected IOException with stream: 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+
+# Created at 2018-12-17T21:04:06.951
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.952
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+
+# Created at 2018-12-17T21:04:06.953
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.953
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+
+# Created at 2018-12-17T21:04:06.954
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.956
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+
+# Created at 2018-12-17T21:04:06.957
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.958
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+
+# Created at 2018-12-17T21:04:06.959
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.960
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+
+# Created at 2018-12-17T21:04:06.960
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.961
+Unexpected IOException with stream: 	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+
+# Created at 2018-12-17T21:04:06.962
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.963
+Unexpected IOException with stream: 	at org.testng.TestRunner.run(TestRunner.java:505)
+
+# Created at 2018-12-17T21:04:06.964
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.965
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+
+# Created at 2018-12-17T21:04:06.966
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.967
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+
+# Created at 2018-12-17T21:04:06.967
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.968
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+
+# Created at 2018-12-17T21:04:06.969
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.970
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+
+# Created at 2018-12-17T21:04:06.971
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.973
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+
+# Created at 2018-12-17T21:04:06.975
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.976
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+
+# Created at 2018-12-17T21:04:06.977
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.978
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+
+# Created at 2018-12-17T21:04:06.978
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.979
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+
+# Created at 2018-12-17T21:04:06.980
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.981
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuites(TestNG.java:1049)
+
+# Created at 2018-12-17T21:04:06.982
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.983
+Unexpected IOException with stream: 	at org.testng.TestNG.run(TestNG.java:1017)
+
+# Created at 2018-12-17T21:04:06.984
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.985
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+
+# Created at 2018-12-17T21:04:06.986
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.987
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+
+# Created at 2018-12-17T21:04:06.988
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.991
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+
+# Created at 2018-12-17T21:04:06.992
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.993
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+
+# Created at 2018-12-17T21:04:06.994
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.995
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+
+# Created at 2018-12-17T21:04:06.996
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.997
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+
+# Created at 2018-12-17T21:04:06.998
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:06.999
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+# Created at 2018-12-17T21:04:07.000
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:19.899
+Unexpected IOException with stream: [
+
+# Created at 2018-12-17T21:04:19.902
+Unexpected IOException with stream: 1
+
+# Created at 2018-12-17T21:04:19.903
+Unexpected IOException with stream: 5
+
+# Created at 2018-12-17T21:04:19.904
+Unexpected IOException with stream: 4
+
+# Created at 2018-12-17T21:04:19.905
+Unexpected IOException with stream: 5
+
+# Created at 2018-12-17T21:04:19.906
+Unexpected IOException with stream: 0
+
+# Created at 2018-12-17T21:04:19.907
+Unexpected IOException with stream: 9
+
+# Created at 2018-12-17T21:04:19.908
+Unexpected IOException with stream: 8
+
+# Created at 2018-12-17T21:04:19.909
+Unexpected IOException with stream: 6
+
+# Created at 2018-12-17T21:04:19.910
+Unexpected IOException with stream: 5
+
+# Created at 2018-12-17T21:04:19.912
+Unexpected IOException with stream: 9
+
+# Created at 2018-12-17T21:04:19.913
+Unexpected IOException with stream: .
+
+# Created at 2018-12-17T21:04:19.914
+Unexpected IOException with stream: 7
+
+# Created at 2018-12-17T21:04:19.915
+Unexpected IOException with stream: 1
+
+# Created at 2018-12-17T21:04:19.916
+Unexpected IOException with stream: 1
+
+# Created at 2018-12-17T21:04:19.916
+Unexpected IOException with stream: ]
+
+# Created at 2018-12-17T21:04:19.917
+Unexpected IOException with stream: [
+
+# Created at 2018-12-17T21:04:19.919
+Unexpected IOException with stream: S
+
+# Created at 2018-12-17T21:04:19.921
+Unexpected IOException with stream: E
+
+# Created at 2018-12-17T21:04:19.922
+Unexpected IOException with stream: V
+
+# Created at 2018-12-17T21:04:19.923
+Unexpected IOException with stream: E
+
+# Created at 2018-12-17T21:04:19.924
+Unexpected IOException with stream: R
+
+# Created at 2018-12-17T21:04:19.924
+Unexpected IOException with stream: E
+
+# Created at 2018-12-17T21:04:19.925
+Unexpected IOException with stream: ]
+
+# Created at 2018-12-17T21:04:19.926
+Unexpected IOException with stream: :
+
+# Created at 2018-12-17T21:04:19.927
+Unexpected IOException with stream:  
+
+# Created at 2018-12-17T21:04:19.928
+Unexpected IOException with stream: U
+
+# Created at 2018-12-17T21:04:19.929
+Unexpected IOException with stream: n
+
+# Created at 2018-12-17T21:04:19.930
+Unexpected IOException with stream: a
+
+# Created at 2018-12-17T21:04:19.932
+Unexpected IOException with stream: b
+
+# Created at 2018-12-17T21:04:19.933
+Unexpected IOException with stream: l
+
+# Created at 2018-12-17T21:04:19.935
+Unexpected IOException with stream: e
+
+# Created at 2018-12-17T21:04:19.937
+Unexpected IOException with stream:  
+
+# Created at 2018-12-17T21:04:19.939
+Unexpected IOException with stream: t
+
+# Created at 2018-12-17T21:04:19.940
+Unexpected IOException with stream: o
+
+# Created at 2018-12-17T21:04:19.942
+Unexpected IOException with stream:  
+
+# Created at 2018-12-17T21:04:19.944
+Unexpected IOException with stream: r
+
+# Created at 2018-12-17T21:04:19.945
+Unexpected IOException with stream: e
+
+# Created at 2018-12-17T21:04:19.946
+Unexpected IOException with stream: c
+
+# Created at 2018-12-17T21:04:19.947
+Unexpected IOException with stream: e
+
+# Created at 2018-12-17T21:04:19.950
+Unexpected IOException with stream: i
+
+# Created at 2018-12-17T21:04:19.951
+Unexpected IOException with stream: v
+
+# Created at 2018-12-17T21:04:19.952
+Unexpected IOException with stream: e
+
+# Created at 2018-12-17T21:04:19.954
+Unexpected IOException with stream:  
+
+# Created at 2018-12-17T21:04:19.955
+Unexpected IOException with stream: m
+
+# Created at 2018-12-17T21:04:19.957
+Unexpected IOException with stream: e
+
+# Created at 2018-12-17T21:04:19.958
+Unexpected IOException with stream: s
+
+# Created at 2018-12-17T21:04:19.959
+Unexpected IOException with stream: s
+
+# Created at 2018-12-17T21:04:19.960
+Unexpected IOException with stream: a
+
+# Created at 2018-12-17T21:04:19.961
+Unexpected IOException with stream: g
+
+# Created at 2018-12-17T21:04:19.962
+Unexpected IOException with stream: e
+
+# Created at 2018-12-17T21:04:19.963
+Unexpected IOException with stream:  
+
+# Created at 2018-12-17T21:04:19.965
+Unexpected IOException with stream: f
+
+# Created at 2018-12-17T21:04:19.966
+Unexpected IOException with stream: r
+
+# Created at 2018-12-17T21:04:19.968
+Unexpected IOException with stream: o
+
+# Created at 2018-12-17T21:04:19.969
+Unexpected IOException with stream: m
+
+# Created at 2018-12-17T21:04:19.971
+Unexpected IOException with stream:  
+
+# Created at 2018-12-17T21:04:19.972
+Unexpected IOException with stream: r
+
+# Created at 2018-12-17T21:04:19.973
+Unexpected IOException with stream: e
+
+# Created at 2018-12-17T21:04:19.974
+Unexpected IOException with stream: n
+
+# Created at 2018-12-17T21:04:19.975
+Unexpected IOException with stream: d
+
+# Created at 2018-12-17T21:04:19.976
+Unexpected IOException with stream: e
+
+# Created at 2018-12-17T21:04:19.977
+Unexpected IOException with stream: r
+
+# Created at 2018-12-17T21:04:19.978
+Unexpected IOException with stream: e
+
+# Created at 2018-12-17T21:04:19.979
+Unexpected IOException with stream: r
+
+# Created at 2018-12-17T21:04:19.980
+Unexpected IOException with stream: 
+
+# Created at 2018-12-17T21:04:19.981
+Unexpected IOException with stream: 
+
+
+# Created at 2018-12-17T21:04:21.968
+Unexpected IOException: 8,1,com.travels_Qa.statesLocations,agenciesStates(com.travels_Qa.statesLocations),null,Index: 9,null,Index: 9,statesLocations.agenciesStates:88 \00BB IndexOutOfBounds Index: 9,java.lang.IndexOutOfBoundsException: Index: 9\000A\0009at com.travels_Qa.statesLocations.agenciesStates(statesLocations.java:88)\000A
+
+
+# Created at 2018-12-17T21:04:23.706
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.travels_Qa.openAppTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 1.107 sec <<< FAILURE!
+setUp(com.travels_Qa.openAppTest)  Time elapsed: 0.706 sec  <<< FAILURE!
+java.lang.NoSuchMethodError: org.slf4j.impl.StaticLoggerBinder.getSingleton()Lorg/slf4j/impl/StaticLoggerBinder;
+	at org.slf4j.LoggerFactory.bind(LoggerFactory.java:150)
+	at org.slf4j.LoggerFactory.performInitialization(LoggerFactory.java:124)
+	at org.slf4j.LoggerFactory.getILoggerFactory(LoggerFactory.java:412)
+	at org.slf4j.LoggerFactory.getLogger(LoggerFactory.java:357)
+	at org.slf4j.LoggerFactory.getLogger(LoggerFactory.java:383)
+	at io.github.bonigarcia.wdm.WebDriverManager.<clinit>(WebDriverManager.java:92)
+	at com.travels_Qa.openAppTest.setUp(openAppTest.java:35)
+
